@@ -19,7 +19,6 @@ I have already learned programming earlier as well. So I have little knowledge b
 
 
 
-```markdown
 
 Progress of each day :
 
@@ -31,7 +30,5 @@ Ref:https://ryanstutorials.net/bash-scripting-tutorial/
 https://www.geeksforgeeks.org/tag/shell-script/
 
 
-**Day 3** - 
 
-```
 
