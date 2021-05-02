@@ -1,5 +1,6 @@
-Firstly, welcome to this blog. I am doing the challenge of #100-Days-Of-Programming
-And just to get me accountable to something, I will write it here what I am learning. 
+Welcome to this blog. I am doing #100-Days-Of-Programming
+And just to be accountable to something, I will write it here what I am learning and my progress stats.
+
 
 ### Firstly what am I planning to learn ? 
 1. Bash
