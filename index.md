@@ -22,7 +22,7 @@ I have already learned programming earlier as well. So I have little knowledge b
 
 
 
-Progress of each day :
+## Progress of each day :
 
 `Day 1` - Learned about linux - its file structures, permissions, users, group, path, and its commands which are useful for daily usage.<br/>
 Ref: [https://ryanstutorials.net/linuxtutorial/](https://ryanstutorials.net/linuxtutorial/)
