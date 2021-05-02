@@ -8,7 +8,7 @@ And just to be accountable to something, I will write it here what I am learning
 3. Javascript
 4. MYSQL, NOSQL, Redis (Database)
 5. GraphQL  
-__I will be also creating projects and scripts to level up my skills. And at the end will try to make a project which will have everything above mentioned technologies.__
+_I will be also creating projects and scripts to level up my skills. And at the end will try to make a project which will have everything above mentioned technologies._
 
 
 
