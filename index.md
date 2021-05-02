@@ -27,8 +27,9 @@ Progress of each day :
 Ref: [https://ryanstutorials.net/linuxtutorial/](https://ryanstutorials.net/linuxtutorial/)
 
 **Day 2** - Learned about Bash - how to {take input and print output, declare variables, make functions, looping(while, for, until, select), if-elif-else statements, switch cases, operations (arithematic & logical). Also started practicing . 
-Ref: [https://ryanstutorials.net/bash-scripting-tutorial/](https://ryanstutorials.net/bash-scripting-tutorial/)
-     [https://www.geeksforgeeks.org/tag/shell-script/](https://www.geeksforgeeks.org/tag/shell-script/)
+Ref: [https://ryanstutorials.net/bash-scripting-tutorial/](https://ryanstutorials.net/bash-scripting-tutorial/) 
+
+[https://www.geeksforgeeks.org/tag/shell-script/](https://www.geeksforgeeks.org/tag/shell-script/)
 
 
 
