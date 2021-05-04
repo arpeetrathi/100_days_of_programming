@@ -36,5 +36,5 @@ Ref: [https://ryanstutorials.net/bash-scripting-tutorial/](https://ryanstutorial
 `Day 4` - Didn't practiced at all. Became lazy and procrastinated. 
 
 `Day 5` - Today also practiced several programs from GeeksForGeeks and started reading other Bash related study material. <br/>
-Ref: [https://tldp.org/LDP/abs/html/]
+Ref: https://tldp.org/LDP/abs/html/
 <br/>Completed this till Part 3. Will complete all the parts by tommorow.
